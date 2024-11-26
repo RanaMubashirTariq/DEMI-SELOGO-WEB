@@ -1,0 +1,481 @@
+
+
+@media screen and (min-width:1330px) and (max-width:1470px) {
+    .main-section-d{
+        width: 100%;
+        max-width: 1055px;
+        padding: 10px 150px 24px 150px;
+    }
+    .input-d{
+        max-width: 915px;
+    }
+
+    .text-d{
+        padding: 0px 185px 40px 185px;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1330px) {
+    .main-section-d{
+        width: 100%;
+        max-width: 955px;
+        padding: 10px 120px 24px 120px;
+    }
+    .input-d{
+        width: 100%;
+        display: flex;
+        max-width: 815px;
+    }
+    .text-d{
+        width: 100%;
+        max-width: 971px;
+        display: flex;
+        flex-direction: column;
+        padding: 0px 120px 40px 120px;
+    }
+}
+
+@media screen and (min-width:1100px) and (max-width:1200px) {
+    .main-section-d{
+        width: 100%;
+        max-width: 855px;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 80px 24px 100px;
+        gap: 20px;
+    }
+    .input-d{
+        width: 100%;
+        display: flex;
+        max-width: 715px;
+    }
+    .text-d{
+        width: 100%;
+        max-width: 871px;
+        padding: 0px 80px 40px 100px;
+    }
+    .text-heading h2{
+        font-size: 28px;
+    }
+}
+
+
+@media screen and (min-width:980px) and (max-width:1100px) {
+    .main-section-d{
+        width: 100%;
+        max-width: 755px;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 60px 24px 80px;
+        gap: 20px;
+    }
+    .input-d input{
+        width: 100%;
+        border: none;
+        background: transparent;
+        padding: 14px 34px 14px 0px;
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 22.4px;
+        text-align: left;
+    }
+    .input-d img{
+        padding-left: 34px;
+        width: 24px;
+    }
+    .input-d{
+        width: 100%;
+        display: flex;
+        max-width: 715px;
+    }
+    .btn-d{
+        height: 20px;
+    }
+    .btn-d img{
+        width: 24px;
+    }
+    .text-d{
+        width: 100%;
+        max-width: 771px;
+        padding: 0px 0px 40px 60px;
+    }
+    .text-heading h2{
+        font-size: 24px;
+        margin:0;
+}
+}
+
+
+@media screen and (min-width:850px) and (max-width:980px) {
+    .main-section-d{
+        width: 100%;
+        max-width: 600px;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 50px 24px 80px;
+        gap: 20px;
+    }
+    .input-d input{
+        width: 100%;
+        border: none;
+        background: transparent;
+        padding: 14px 34px 14px 0px;
+        font-family: Inter;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22.4px;
+        text-align: left;
+    }
+    .input-d img{
+        padding-left: 34px;
+        width: 24px;
+    }
+    .input-d{
+        width: 100%;
+        display: flex;
+        max-width: 585px;
+    }
+    .btn-d{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        max-width: 106px;
+        height: 20px;
+        padding: 12px;
+        gap: 20px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 1);
+        border: 1px solid rgba(126, 131, 144, 1);
+    }
+    .btn-d img{
+        width: 24px;
+    }
+    .text-d{
+        width: 100%;
+        max-width: 700px;
+        padding: 0px 0px 40px 60px;
+    }
+    .text-heading h2{
+        margin: 0;
+        font-size: 24px;
+}
+
+}
+
+@media screen and (min-width:740px) and (max-width:850px) {
+    .main-section-d{
+        width: 100%;
+        max-width: 655px;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 5px 24px 60px;
+        gap: 20px;
+    }
+    .input-d input{
+        width: 100%;
+        border: none;
+        background: transparent;
+        padding: 12px 34px 12px 0px;
+        font-family: Inter;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22.4px;
+        text-align: left;
+    }
+    .input-d img{
+        padding-left: 34px;
+        width: 24px;
+    }
+    .input-d{
+        width: 100%;
+        display: flex;
+        max-width: 615px;
+    }
+    .btn-d{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        max-width: 80px;
+        height: 20px;
+        padding: 12px;
+        gap: 20px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 1);
+        border: 1px solid rgba(126, 131, 144, 1);
+    }
+    .btn-d img{
+        width: 24px;
+    }
+}
+
+@media screen and (min-width:580px) and (max-width:750px) {
+    .main-section-d{
+        width: 100%;
+        max-width: 455px;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 50px 24px 100px;
+        gap: 20px;
+    }
+    .input-d input{
+        width: 100%;
+        border: none;
+        background: transparent;
+        padding: 12px 34px 12px 0px;
+        font-family: Inter;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22.4px;
+        text-align: left;
+    }
+    .input-d img{
+        padding-left: 34px;
+        width: 24px;
+    }
+    .input-d{
+        width: 100%;
+        display: flex;
+        max-width: 415px;
+    }
+    .btn-d{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        max-width: 80px;
+        height: 20px;
+        padding: 12px;
+        gap: 20px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 1);
+        border: 1px solid rgba(126, 131, 144, 1);
+    }
+    .btn-d img{
+        width: 24px;
+    }
+
+}
+@media screen and (min-width:460px) and (max-width:580px) {
+    .main-section-d{
+        width: 100%;
+        max-width: 400px;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 0px 24px 70px;
+        gap: 20px;
+    }
+    .input-d input{
+        width: 100%;
+        border: none;
+        background: transparent;
+        padding: 7px 34px 7px 0px;
+        font-family: Inter;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 22.4px;
+        text-align: left;
+    }
+    .input-d img{
+        padding-left: 24px;
+        width: 15px;
+    }
+    .input-d{
+        width: 100%;
+        display: flex;
+        max-width: 415px;
+    }
+    .btn-d{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        max-width: 60px;
+        height: 20px;
+        padding: 12px;
+        gap: 20px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 1);
+        border: 1px solid rgba(126, 131, 144, 1);
+    }
+    .btn-d button{
+        border: none;
+        background: none;
+        outline: none;
+        font-family: Inter;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 22.4px;
+        text-align: left;
+    }
+    .btn-d img{
+        width: 15px;
+    }
+}
+
+@media screen and (min-width:400px) and (max-width:460px) {
+    .main-section-d{
+        width: 100%;
+        max-width: 355px;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 20px 24px 35px;
+        /* gap: 20px; */
+    }
+    .input-d input{
+        width: 100%;
+        border: none;
+        background: transparent;
+        padding: 7px 34px 7px 0px;
+        font-family: Inter;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 22.4px;
+        text-align: left;
+    }
+    .input-d img{
+        padding-left: 24px;
+        width: 15px;
+    }
+    .input-d{
+        width: 100%;
+        display: flex;
+        max-width: 315px;
+    }
+    .btn-d{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        max-width: 60px;
+        height: 20px;
+        padding: 7px;
+        gap: 10px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 1);
+        border: 1px solid rgba(126, 131, 144, 1);
+    }
+    .btn-d button{
+        border: none;
+        background: none;
+        outline: none;
+        font-family: Inter;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 22.4px;
+        text-align: left;
+    }
+    .btn-d img{
+        width: 15px;
+    }
+}
+
+@media screen and (min-width:350px) and (max-width: 400px) {
+    .main-section-d {
+      width: 100%;
+      max-width: 255px;
+      padding: 10px 10px 24px 50px;
+      justify-content: space-between;
+    }
+    .input-d {
+      max-width: 180px; 
+    }
+    .input-d input {
+      font-size: 10px;
+      padding: 7px 7px;
+    }
+    .input-d img{
+        width: 12px;
+        padding-left: 7px;
+    }
+    .btn-d {
+      max-width: 50px;
+      gap: 5px;
+      padding: 5px;
+    }
+    .btn-d img {
+      width: 12px;
+    }
+    .btn-d button {
+      font-size: 10px;
+    }
+  }
+
+
+  @media screen and (max-width:350px)  {
+    .main-section-d {
+      width: 100%;
+      max-width: 255px;
+      padding: 10px 10px 24px 30px;
+      justify-content: space-between;
+    }
+    .input-d {
+      max-width: 180px;
+    }
+    .input-d input {
+      font-size: 10px;
+      padding: 7px 7px;
+    }
+    .input-d img{
+        width: 12px;
+        padding-left: 7px;
+    }
+    .btn-d {
+      max-width: 50px;
+      gap: 5px;
+      padding: 5px;
+    }
+    .btn-d img {
+      width: 12px;
+    }
+    .btn-d button {
+      font-size: 10px;
+    }
+  }
+
+
+  /* jfseojc fuwCU9 */
+
+  @media screen and (max-width: 850px) {
+    .text-d {
+        padding: 0px 10px 30px 20px;
+    }
+    .text-heading h2 {
+        font-size: 22px;
+        line-height: 42px;
+    }
+    .text-paragraph p {
+        font-size: 14px;
+        line-height: 20px;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .text-d {
+        padding: 0px 25px 20px 25px; 
+    }
+    .text-heading h2 {
+        margin: 0;
+        font-size: 16px; 
+        line-height: 26px;
+    }
+    .text-paragraph p {
+        font-size: 12px; 
+        line-height: 18px;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .text-d {
+        padding: 0px 25px 15px 25px;
+    }
+    .text-heading h2 {
+        margin: 0;
+        font-size: 14px; 
+        line-height: 20px;
+    }
+    .text-paragraph p {
+        font-size: 10px;
+        line-height: 15px;
+        margin: 0;
+    }
+}
