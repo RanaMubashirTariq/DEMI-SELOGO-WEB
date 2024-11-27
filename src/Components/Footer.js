@@ -62,10 +62,10 @@ export default function Footer() {
         <div className='last-footer'>
              <div className='last-part-para'><p>© 2023 XYZ Company. All rights reserved</p></div>
              <div className='last-part-icons'>
-                <div><img src="/images/Icons/Facebook.svg"/></div>
-                <div><img src="/images/Icons/Internet.svg"/></div>
-                <div><img src="/images/Icons/Instagram.svg"/></div>
-                <div><img src="/images/Icons/Twitter.svg"/></div>
+                <div className='pics'><img src="/images/Icons/Facebook.svg"/></div>
+                <div className='pics'><img src="/images/Icons/Internet.svg"/></div>
+                <div className='pics'><img src="/images/Icons/Instagram.svg"/></div>
+                <div className='pics'><img src="/images/Icons/Twitter.svg"/></div>
              </div>
         </div>
     </>
