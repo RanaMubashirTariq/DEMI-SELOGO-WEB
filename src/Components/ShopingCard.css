@@ -5,6 +5,7 @@
     justify-content: center;
     gap: 20px;
     padding: 10px 139px 86px 80px;
+    box-sizing: border-box;
 }
 .single-card{
     width: 140px;
