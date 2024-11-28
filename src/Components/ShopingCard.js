@@ -55,7 +55,7 @@ export default function ShopingCard() {
         </div>
            {/* 11 */}
         <div className='single-card'>
-            <img src="./Images/Icons/Square-icon.svg"/>
+            <img src="/Images/Icons/Square-icon.svg"/>
             <h2>My Tender</h2>
         </div> 
     </div>

@@ -12,9 +12,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
         {/*  card2 */}
@@ -26,9 +26,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
         {/*  3 */}
@@ -40,9 +40,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
         {/* 4 */}
@@ -54,9 +54,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
         {/* 5 */}
@@ -68,9 +68,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
         {/* 6 */}
@@ -82,9 +82,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
         {/* 7 */}
@@ -96,9 +96,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
         {/* 8 */}
@@ -110,9 +110,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
         {/* 9 */}
@@ -124,9 +124,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
           {/* 10 */}
@@ -138,9 +138,9 @@ export default function MultipleCards() {
                     <div className='bottom-content-d1'><h3>Dewaan</h3></div>
                     <div className='bottom-content-d2'><h3>100$</h3></div>
                  </div>
-                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
-                 </div>
                  <div className='bottom-part-pic'><img src="/Images/Icons/Heart-icon.svg"/></div>
+                 </div>
+                 <div className='bottom-content-part2'><p>A beautiful dewaan piece</p></div>
             </div>
         </div>
     </div>
