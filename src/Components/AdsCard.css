@@ -260,7 +260,6 @@
     }
     .ads-single-card{
         width: 100%;
-        height: 380px;
         padding-left: 30px;
     }
     .cards-1st{
@@ -273,7 +272,6 @@
     }
     .card-2nd{
         width: 100%;
-        height: 380px;
     }
     .card-2nd-pic img{
         width: 100%;
@@ -288,6 +286,5 @@
     }
     .card-3rd{
         width: 100%;
-        height: 380px;
     }
 }
